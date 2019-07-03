@@ -15,7 +15,7 @@ Start GitHub
 
 ---
 
-直接输入的文字就是普通文本。需要注意的是要换行的时候不能直接通过回车来换行，需要使用/<br>(即/加<br>)也就是html里面的br标签。
+直接输入的文字就是普通文本。需要注意的是要换行的时候不能直接通过回车来换行，需要使用<br>也就是html里面的br标签。
 事实上，markdown支持一些html标签（README.md实际上就是使用markdown这一种标记语言）
 
 [更多详细的玩法可点击链接查看](https://github.com/guodongxiaren/README/blob/master/README.md "悬停显示")
